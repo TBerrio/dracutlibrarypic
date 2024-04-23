@@ -9,7 +9,11 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
+file_size,File Size
+dimensions,Dimensions
+language,Language
 type,Type,
 format,Format,
+contributor,Contributor
 rights,Rights,
 rightsstatement,Rights Statement,,true
