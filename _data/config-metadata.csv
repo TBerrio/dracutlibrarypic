@@ -16,4 +16,5 @@ type,Type,
 format,Format,
 contributor,Contributor
 rights,Rights,
+image_alt_text,Image Alt Text
 rightsstatement,Rights Statement,,true
